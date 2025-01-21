@@ -33,6 +33,7 @@
 *.DS_Store
 *.vscode/
 /.idea/
+.vs/
 
 # Ignore CMake build directories
 /build/
