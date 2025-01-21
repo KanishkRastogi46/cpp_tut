@@ -1,0 +1,49 @@
+# Ignore object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Ignore precompiled headers
+*.gch
+*.pch
+
+# Ignore dynamic and static libraries
+*.dll
+*.dylib
+*.so
+*.a
+*.lib
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore debug and release directories
+/Debug/
+/Release/
+
+# Ignore generated files
+*.dSYM
+*.dmg
+*.log
+
+# Ignore IDE-specific files
+*.DS_Store
+*.vscode/
+/.idea/
+
+# Ignore CMake build directories
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+
+# Ignore other OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore MacOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
